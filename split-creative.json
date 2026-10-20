@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-stall-weit.jpg",
+  "primary": "#004C38",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#004C38",
+  "kicker": "WIR SUCHEN IN VIELANK",
+  "headline": [
+   "Tierwirt (m/w/d)",
+   "Fachbereich Schwein"
+  ],
+  "subline": "420 Sauen, Mast auf Stroh – unbefristet in Vollzeit.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-mastschweine-stroh.jpg",
+  "primary": "#004C38",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN VIELANK",
+  "headline": [
+   "Tierwirt Schwein (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristeter Arbeitsvertrag",
+   "Geregelte Arbeitszeiten",
+   "Hilfe bei der Wohnungssuche"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ }
+]

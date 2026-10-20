@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-weiss-hd.png",
+ "fotos": [
+  "img/foto-hd-ferkel.jpg",
+  "img/foto-hd-stall-stroh.jpg",
+  "img/foto-hd-sau.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#004C38",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Tierwirt",
+  "Schwein"
+ ],
+ "headline_zusatz": "(m/w/d) – Vollzeit, unbefristet",
+ "ort": "Vielank · Dömitz · Lübtheen · Ludwigslust",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
