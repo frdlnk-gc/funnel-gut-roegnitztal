@@ -1,0 +1,133 @@
+{
+ "firma": "Gut Rögnitztal",
+ "stelle": "Tierwirt Fachbereich Schwein (m/w/d)",
+ "ort": "Vielank",
+ "plz": "19303",
+ "branche": "landwirtschaft",
+ "farbe_primary": "#004C38",
+ "farbe_secondary": "#E8C070",
+ "region_badge": "Vielank & Umgebung",
+ "benefit_top": "Unbefristet & Hilfe bei der Wohnungssuche",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag",
+  "Geregelte Arbeitszeiten & leistungsgerechte Entlohnung",
+  "Hilfe bei der Wohnungssuche",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Hochwertige Arbeitskleidung",
+  "Strukturierte Abläufe",
+  "Freundliches Arbeitsklima",
+  "Regelmäßige Firmenfeiern"
+ ],
+ "aufgaben": [
+  "Du arbeitest in allen Produktionsstufen – Sauenhaltung, Ferkelaufzucht und Mastschweinehaltung",
+  "Du betreust Sauen, Ferkel, Läufer und Mastschweine – von der künstlichen Besamung bis zur Abferkelung",
+  "Du überwachst die Tiergesundheit und die technischen Anlagen und übernimmst Zuchtarbeit",
+  "Du kümmerst dich um Datenverarbeitung und Dokumentation"
+ ],
+ "anforderung": "Praktische Berufserfahrung und Freude an der Arbeit mit Tieren. Eine abgeschlossene Ausbildung als Tierwirt oder Landwirt ist wünschenswert.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Ausbildung als Tierwirt",
+   "icon": "🐖",
+   "qualifikationen": [
+    {
+     "label": "Erfahrung in der Schweinehaltung",
+     "icon": "🐖"
+    },
+    {
+     "label": "Erfahrung in anderer Tierhaltung",
+     "icon": "🐄"
+    },
+    {
+     "label": "Praktische Erfahrung in anderem Bereich",
+     "icon": "💪"
+    },
+    {
+     "label": "Noch keine praktische Erfahrung",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Ausbildung als Landwirt",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Erfahrung in der Schweinehaltung",
+     "icon": "🐖"
+    },
+    {
+     "label": "Erfahrung in anderer Tierhaltung",
+     "icon": "🐄"
+    },
+    {
+     "label": "Praktische Erfahrung in anderem Bereich",
+     "icon": "💪"
+    },
+    {
+     "label": "Noch keine praktische Erfahrung",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Andere Ausbildung oder Quereinstieg",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Erfahrung in der Schweinehaltung",
+     "icon": "🐖"
+    },
+    {
+     "label": "Erfahrung in anderer Tierhaltung",
+     "icon": "🐄"
+    },
+    {
+     "label": "Praktische Erfahrung in anderem Bereich",
+     "icon": "💪"
+    },
+    {
+     "label": "Noch keine praktische Erfahrung",
+     "icon": "🌱"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1991",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "24",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "420",
+    "label": "Sauen"
+   }
+  ],
+  "text": "Etablierter Landwirtschaftsbetrieb in Vielank: 1.700 Hektar Ackerbau, eine Schweineanlage mit 420 Sauen im geschlossenen System, eine Mutterkuhherde und eine Biogasanlage. Die Mastschweine werden in umgebauten Ställen auf Stroh gehalten – mit Zugang zu Frischluftausläufen."
+ },
+ "kunde_tab": "27 Gut Rögnitztal",
+ "quelle": "https://gut-roegnitztal.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Vielank"
+ },
+ "hero_bild": "img/hero-mastschweine-stroh.jpg",
+ "bilder": [
+  "img/f1-stall-stroh.jpg",
+  "img/f2-ferkel.jpg",
+  "img/f3-stall-weit.jpg",
+  "img/f4-ferkel-nah.jpg",
+  "img/f5-sau.jpg",
+  "img/f6-stallanlage.jpg",
+  "img/f7-mutterkuehe.jpg",
+  "img/f8-biogasanlage.jpg",
+  "img/f9-ernte.jpg"
+ ]
+}
